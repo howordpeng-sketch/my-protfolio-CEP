@@ -5,9 +5,10 @@ Name: [Haowen]
 Major: Computer Science
 
 ## Skills
-- Programming: Python, Java
-- Git: Intermediate
+- Programming: Python, Java, C++, JavaScript
+- Git: Advanced
 - Web Development: HTML, CSS
+- Database: SQL
 
 ## Projects
 - Project 1: TBD
